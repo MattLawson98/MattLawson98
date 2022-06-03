@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My Name is Matt  and I am a full stack developer!
+Hi my name is Matt and I am a full stack developer! I majored in elcterical engineering and found a love for coding, from there the rest is history!
 
 Here are some ideas to get you started:
 
