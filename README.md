@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: row; width: 100%;">
  <img class="img" style="width: 70%; padding-right: 10%;" src="https://github-readme-stats.vercel.app/api?username=MattLawson98&show_icons=true&theme=gotham" />
- <img class="img" style="width: 70%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawson98&theme=radical&layout=compact" />
+ <img class="img" style="width: 70%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawson98&theme=gotham&layout=compact" />
 </div>
