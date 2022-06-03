@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning anything I can about Python while expanding my knowledge of React
 
 ### Some Quick Info 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattLawson98&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawson98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row; width: 100%;">
+ <img class="img" style="width: 80%; padding-right: 10%;" src="https://github-readme-stats.vercel.app/api?username=MattLawson98&show_icons=true&theme=Gradient" />
+ <img class="img" style="width: 80%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawson98&theme=radical&layout=compact" />
+</div>
